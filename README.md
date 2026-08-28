@@ -1,4 +1,4 @@
-# Hi, I'm Rohith Saravanas
+# Hi, I'm Rohith Saravana S.
 
 Full-stack developer building systems across web, AI, and embedded platforms.
 
